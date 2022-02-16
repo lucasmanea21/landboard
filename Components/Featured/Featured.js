@@ -1,5 +1,6 @@
 import { Card, Container, Grid, Typography } from "@mui/material";
 import { cardData } from "./data";
+import { Fade } from "react-reveal";
 
 const CustomCard = ({ text, title, icon }) => (
   <Card
@@ -42,18 +43,20 @@ const CustomCard = ({ text, title, icon }) => (
 const Featured = () => {
   return (
     <section className="wpb_row vc_row-fluid vc_custom_1531732809616 vc_row-has-fill">
-      <div className="container">
-        <Container>
-          <Grid container>
-            {cardData.map((item) => (
-              <Grid item md={4} sm={6} xs={12} key={item}>
-                {" "}
-                <CustomCard {...item} />
-              </Grid>
-            ))}
-          </Grid>
-        </Container>
-      </div>
+      <Fade>
+        <div className="container">
+          <Container>
+            <Grid container>
+              {cardData.map((item) => (
+                <Grid item md={4} sm={6} xs={12} key={item}>
+                  {" "}
+                  <CustomCard {...item} />
+                </Grid>
+              ))}
+            </Grid>
+          </Container>
+        </div>
+      </Fade>
     </section>
   );
 };

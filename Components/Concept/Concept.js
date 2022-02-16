@@ -88,37 +88,36 @@ const Concept = () => {
               </div>
             </div>
           </div>
-          <Fade left>
-            <div className="wpb_column vc_column_container vc_col-sm-12">
-              <div className="vc_column-inner">
-                <div className="wpb_wrapper">
-                  <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                    <div className="align-self-center text-white wpb_column vc_column_container vc_col-sm-6">
-                      <div className="vc_column-inner">
-                        <div className="wpb_wrapper">
-                          <h4
-                            style={{ color: "#ffffff", textAlign: "left" }}
-                            className="vc_custom_heading"
-                          >
-                            Creating a win-win
-                            <br />
-                            for everyone
-                          </h4>
-                          <div className="wpb_text_column wpb_content_element vc_custom_1525942237913">
-                            <div className="wpb_wrapper">
-                              <p className="lead">
-                                An exciting business opportunity should come
-                                with equally exciting rewards.
-                              </p>
-                              <p>
-                                The Landboard application will be eventually
-                                fully run by Landboard DAO. Holders will be able
-                                to vote on the future of the project relative to
-                                their holdings.
-                              </p>
-                            </div>
+          <div className="wpb_column vc_column_container vc_col-sm-12">
+            <div className="vc_column-inner">
+              <div className="wpb_wrapper">
+                <div className="vc_row wpb_row vc_inner vc_row-fluid">
+                  <div className="align-self-center text-white wpb_column vc_column_container vc_col-sm-6">
+                    <div className="vc_column-inner">
+                      <div className="wpb_wrapper">
+                        <h4
+                          style={{ color: "#ffffff", textAlign: "left" }}
+                          className="vc_custom_heading"
+                        >
+                          Creating a win-win
+                          <br />
+                          for everyone
+                        </h4>
+                        <div className="wpb_text_column wpb_content_element vc_custom_1525942237913">
+                          <div className="wpb_wrapper">
+                            <p className="lead">
+                              An exciting business opportunity should come with
+                              equally exciting rewards.
+                            </p>
+                            <p>
+                              The Landboard application will be eventually fully
+                              run by Landboard DAO. Holders will be able to vote
+                              on the future of the project relative to their
+                              holdings.
+                            </p>
                           </div>
-                          {/* <a
+                        </div>
+                        {/* <a
                             className="btn btn-primary js-tilt primary ml-lg-0 mx-0 mt-4"
                             href="#"
                             data-gal="m_PageScroll2id"
@@ -129,24 +128,22 @@ const Concept = () => {
                           >
                             <span>Roadmap</span>
                           </a> */}
-                        </div>
                       </div>
                     </div>
-                    <div className="order-first order-md-last mb-4 mb-md-0 wpb_column vc_column_container vc_col-sm-5 vc_col-lg-offset-1 vc_col-md-offset-1 vc_col-sm-offset-1">
-                      <div className="vc_column-inner">
-                        <div className="wpb_wrapper">
-                          <div className="img-wrap">
-                            <img src="assets/svg/investment.svg" alt="" />
-                          </div>
+                  </div>
+                  <div className="order-first order-md-last mb-4 mb-md-0 wpb_column vc_column_container vc_col-sm-5 vc_col-lg-offset-1 vc_col-md-offset-1 vc_col-sm-offset-1">
+                    <div className="vc_column-inner">
+                      <div className="wpb_wrapper">
+                        <div className="img-wrap">
+                          <img src="assets/svg/investment.svg" alt="" />
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>{" "}
-          </Fade>
-
+            </div>
+          </div>{" "}
           <div className="wpb_column vc_column_container vc_col-sm-12">
             <div className="vc_column-inner">
               <div className="wpb_wrapper">
@@ -156,42 +153,41 @@ const Concept = () => {
               </div>
             </div>
           </div>
-          <Fade right>
-            <div className="wpb_column vc_column_container vc_col-sm-12">
-              <div className="vc_column-inner">
-                <div className="wpb_wrapper">
-                  <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                    <div className="mb-4 mb-md-0 wpb_column vc_column_container vc_col-sm-5">
-                      <div className="vc_column-inner">
-                        <div className="wpb_wrapper">
-                          <div className="img-wrap">
-                            <img src="assets/svg/map.svg" alt="" />
-                          </div>
+          <div className="wpb_column vc_column_container vc_col-sm-12">
+            <div className="vc_column-inner">
+              <div className="wpb_wrapper">
+                <div className="vc_row wpb_row vc_inner vc_row-fluid">
+                  <div className="mb-4 mb-md-0 wpb_column vc_column_container vc_col-sm-5">
+                    <div className="vc_column-inner">
+                      <div className="wpb_wrapper">
+                        <div className="img-wrap">
+                          <img src="assets/svg/map.svg" alt="" />
                         </div>
                       </div>
                     </div>
-                    <div className="align-self-center text-white wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-1 vc_col-md-offset-1 vc_col-sm-offset-1">
-                      <div className="vc_column-inner">
-                        <div className="wpb_wrapper">
-                          <h4
-                            style={{ color: "#ffffff", textAlign: "left" }}
-                            className="vc_custom_heading"
-                          >
-                            More than virtual land
-                          </h4>
-                          <div className="wpb_text_column wpb_content_element vc_custom_1525942228319">
-                            <div className="wpb_wrapper">
-                              <p>
-                                The Landboard platform enables its users to use
-                                their virtual land for marketing purposes, thus
-                                giving it real utility. More than that, a land
-                                holder can rent their property to other users
-                                wishing to use it, thus creating a whole new
-                                economy.
-                              </p>
-                            </div>
+                  </div>
+                  <div className="align-self-center text-white wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-1 vc_col-md-offset-1 vc_col-sm-offset-1">
+                    <div className="vc_column-inner">
+                      <div className="wpb_wrapper">
+                        <h4
+                          style={{ color: "#ffffff", textAlign: "left" }}
+                          className="vc_custom_heading"
+                        >
+                          More than virtual land
+                        </h4>
+                        <div className="wpb_text_column wpb_content_element vc_custom_1525942228319">
+                          <div className="wpb_wrapper">
+                            <p>
+                              The Landboard platform enables its users to use
+                              their virtual land for marketing purposes, thus
+                              giving it real utility. More than that, a land
+                              holder can rent their property to other users
+                              wishing to use it, thus creating a whole new
+                              economy.
+                            </p>
                           </div>
-                          {/* <a
+                        </div>
+                        {/* <a
                             className="btn btn-primary js-tilt primary ml-lg-0 mx-0 mt-4"
                             href="#"
                             data-gal="m_PageScroll2id"
@@ -202,14 +198,13 @@ const Concept = () => {
                           >
                             <span>Buy Tokens</span>
                           </a> */}
-                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </Fade>
+          </div>
         </div>
       </div>
     </section>
