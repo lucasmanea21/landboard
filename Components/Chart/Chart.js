@@ -62,7 +62,7 @@ const Chart = () => {
       );
     }
   };
-  console.log(Date.now());
+
   return (
     <section
       className="wpb_row vc_row-fluid vc_custom_1527674710557 vc_row-has-fill"

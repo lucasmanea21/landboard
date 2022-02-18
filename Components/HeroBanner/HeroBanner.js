@@ -28,14 +28,8 @@ const HeroBanner = () => {
                       onInit={(typewriter) => {
                         typewriter
                           .typeString("Romania")
-                          .callFunction(() => {
-                            console.log("String typed out!");
-                          })
                           .pauseFor(2500)
                           .deleteAll()
-                          .callFunction(() => {
-                            console.log("All strings were deleted");
-                          })
                           .typeString("The world")
                           .start();
                       }}
@@ -53,7 +47,7 @@ const HeroBanner = () => {
                   </div>
                   <a
                     className="btn btn-primary js-tilt primary ml-lg-0"
-                    href="https://gateway.pinata.cloud/ipfs/QmRe3cCFxdc8H4xSxsY1RaBsu9ndnFypcEpuCDac6C9EnL"
+                    href="https://landboard.io/assets/litepaper.pdf"
                     data-gal="m_PageScroll2id"
                     data-tilt-perspective={300}
                     data-tilt-speed={700}

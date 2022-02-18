@@ -109,7 +109,7 @@ const Navbar = () => {
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-472"
                   >
                     <a
-                      href="https://gateway.pinata.cloud/ipfs/QmRe3cCFxdc8H4xSxsY1RaBsu9ndnFypcEpuCDac6C9EnL "
+                      href="https://landboard.io/assets/litepaper.pdf"
                       className="nav-link"
                     >
                       Litepaper
@@ -123,7 +123,7 @@ const Navbar = () => {
                 <div className="header-btn">
                   <a
                     className="btn btn-primary js-tilt"
-                    href="#app"
+                    href="https://presale.landboard.io"
                     role="button"
                     data-tilt-perspective={300}
                     data-tilt-speed={700}
