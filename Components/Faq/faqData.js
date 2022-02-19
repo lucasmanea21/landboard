@@ -15,8 +15,9 @@ export const faqData = [
   },
   {
     title: "How is Landboard different from other projects?",
-    desc: `Token is a community of people who want to mine cryptocurrency profitably by combining resources
-                 to achieve savings on equipment and ultra-low-cost electricity.`,
+    desc: `There are plenty of projects that just sell land in order for people to speculate on it's price.
+
+    A lot of people need passive income and don't want to sell their assets and with Landboard, we're making sure you are going to earn also from marketing and renting.`,
   },
   {
     title: "When will the plaform be live?",

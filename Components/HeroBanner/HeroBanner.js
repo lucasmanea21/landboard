@@ -58,7 +58,7 @@ const HeroBanner = () => {
                   </a>
                   <a
                     className="btn btn-primary js-tilt primary"
-                    href="https://landboard.io/presale"
+                    href="https://presale.landboard.io/"
                     data-gal="m_PageScroll2id"
                     data-tilt-perspective={300}
                     data-tilt-speed={700}

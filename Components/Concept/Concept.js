@@ -46,8 +46,8 @@ const Concept = () => {
                     <img className="mb-4" src="assets/svg/game.svg" alt="" />
                     <h5>Gamified</h5>
                     <p>
-                      You can own virtual land, trade, use it for good or be a
-                      governor and rule your area.
+                      You can own virtual land, trade, market your NFT or
+                      business on it or be a governor and rule a whole county.
                     </p>
                   </div>
                 </div>
@@ -113,9 +113,9 @@ const Concept = () => {
                               Each tile on the Landboard platform can be bought,
                               sold, edited for marketing purposes and even
                               rented. This way, we are making sure that even if
-                              you do not want to sell your tile because of
-                              it`&apos;`s good position, you can still earn
-                              passive income through your investment.
+                              you do not want to sell your tile because of its
+                              good position, you can still earn passive income
+                              through your investment.
                             </p>
                           </div>
                         </div>

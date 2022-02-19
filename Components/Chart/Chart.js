@@ -105,7 +105,7 @@ const Chart = () => {
           <div className="header-btn" style={{ marginTop: 40 }}>
             <a
               className="btn btn-primary js-tilt"
-              href="https://landboard.io/presale"
+              href="https://presale.landboard.io"
               role="button"
               data-tilt-perspective={300}
               data-tilt-speed={700}
